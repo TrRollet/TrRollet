@@ -15,4 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=TrRollet&label=Profile%20views&color=0e75b6&style=flat" />
 </a>
 
+
+#### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrRollet&repo=Sodoku-Solver&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TrRollet/Sodoku-Solver)
