@@ -17,4 +17,4 @@
 
 
 #### Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrRollet&repo=&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TrRolletr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TrRollet&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TrRolletr)
