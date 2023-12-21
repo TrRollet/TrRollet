@@ -17,4 +17,4 @@
 
 
 #### Projects
-*...*
+[![❓QuizzCord](github-readme-stats.vercel.app/api/pin/?username=TrRollet&repo=QuizzCord&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TrRollet/QuizzCord) 
