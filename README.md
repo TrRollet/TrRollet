@@ -17,4 +17,7 @@
 
 
 #### Projects
-...
+<a href="https://github.com/TrRollet/CalculatriceReact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TrRollet&repo=CalculatriceReact&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
